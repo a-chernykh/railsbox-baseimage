@@ -1,3 +1,7 @@
+# Run container
+
+docker run --rm -t -i andreychernih/railsbox-baseimage /sbin/my_init -- bash -l
+
 # Build new image
 
 ```bash
